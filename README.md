@@ -31,10 +31,12 @@ I enjoy digging into datasets, uncovering trends, and turning complex data into 
 
 ### 📁 Featured Projects
 
-🚧 *Coming soon...*  
-I'll be uploading my portfolio here — including data cleaning, visualization, and business insights from real datasets.
+#### 🛒 [Ecommerce Growth Insights](https://github.com/aldyans/ecommerce-insights-analysis)
+> A comprehensive analysis of an e-commerce dataset with deep insights on seasonal trends, customer segmentation, and pricing strategy.
 
-Stay tuned!
+- 📌 Tools: Python, Pandas, Matplotlib, Seaborn, Google Colab  
+- 📈 Highlights: Customer behavior, sales cycles, geolocation analysis, customer sentiment, payment methods  
+- 🔗 [View on Colab](https://colab.research.google.com/drive/1IpGRzIjlBXH2GXXVGwcsN1zMtgtlqL5s?usp=sharing)
 
 ---
 
