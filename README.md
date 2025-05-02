@@ -1,0 +1,48 @@
+# 👋 Hi there, I'm Aldiansyah
+
+🚀 **Aspiring Data Analyst** | 📊 Python • SQL • Data Visualization  
+I'm passionate about data, learning, and making real impact.
+
+---
+
+### About Me
+
+I'm a curious and disciplined learner with strong analytical skills and a growing portfolio of real-world data projects.  
+I enjoy digging into datasets, uncovering trends, and turning complex data into clear, actionable insights.
+
+- 📈 Exploring data with **Python (Pandas, Seaborn, Matplotlib)**
+- 📑 Building clean, insightful dashboards and reports
+- 💡 Currently learning more about **Machine Learning & Big Data tools**
+- 📚 Always upskilling and sharing what I learn
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-43B02A?style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+
+---
+
+### 📁 Featured Projects
+
+🚧 *Coming soon...*  
+I'll be uploading my portfolio here — including data cleaning, visualization, and business insights from real datasets.
+
+Stay tuned!
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aldyanns)
+- ✉️ Email: writealdyans@gmail.com
+
+---
+
+_“Data isn't just numbers—it's a story waiting to be understood”_
