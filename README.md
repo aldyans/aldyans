@@ -36,7 +36,7 @@ I enjoy digging into datasets, uncovering trends, and turning complex data into 
 
 - 📌 Tools: Python, Pandas, Matplotlib, Seaborn, Google Colab  
 - 📈 Highlights: Customer behavior, sales cycles, geolocation analysis, customer sentiment, payment methods  
-- 🔗 [View on Colab](https://drive.google.com/file/d/11ANUezB2yJ5hvBFzs0HS_Mj4HxThqnC7/view?usp=sharing)
+- 🔗 [View Project](https://github.com/aldyans/ecommerce-insights-analysis)
 
 ---
 
