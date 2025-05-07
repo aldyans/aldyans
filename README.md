@@ -43,7 +43,7 @@ I enjoy digging into datasets, uncovering trends, and turning complex data into 
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aldyanns)
-- ✉️ Email: writealdyans@gmail.com
+- ✉️ Email: heyaldyans@gmail.com
 
 ---
 
